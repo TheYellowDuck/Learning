@@ -1,0 +1,7 @@
+22:09:35 **** Incremental Build of configuration Debug for project Constructor Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructor Functions.o" "..\\src\\Constructor Functions.cpp" 
+g++ -o "Constructor Functions.exe" "src\\Constructor Functions.o" 
+
+22:09:36 Build Finished (took 594ms)
+

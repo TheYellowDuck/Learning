@@ -1,0 +1,7 @@
+14:55:51 **** Incremental Build of configuration Debug for project Pointers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers.o" "..\\src\\Pointers.cpp" 
+g++ -o Pointers.exe "src\\Pointers.o" 
+
+14:55:52 Build Finished (took 600ms)
+

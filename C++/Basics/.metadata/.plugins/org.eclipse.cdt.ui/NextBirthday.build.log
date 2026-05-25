@@ -1,0 +1,13 @@
+12:53:18 **** Incremental Build of configuration Debug for project NextBirthday ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\NextBirthday.o" "..\\src\\NextBirthday.cpp" 
+..\src\NextBirthday.cpp: In function 'int main()':
+..\src\NextBirthday.cpp:8:8: warning: format '%s' expects argument of type 'char*', but argument 2 has type 'char (*)[100]' [-Wformat=]
+  scanf("%s", &string);
+        ^~~~  ~~~~~~~
+g++ -o NextBirthday.exe "src\\NextBirthday.o" 
+C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file NextBirthday.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+12:53:18 Build Finished (took 498ms)
+

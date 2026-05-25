@@ -1,0 +1,7 @@
+22:00:57 **** Incremental Build of configuration Debug for project Classes & Objects ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Classes & Objects.o" "..\\src\\Classes & Objects.cpp" 
+g++ -o "Classes & Objects.exe" "src\\Classes & Objects.o" 
+
+22:00:57 Build Finished (took 573ms)
+
