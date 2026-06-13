@@ -1,8 +1,6 @@
 # Learning
 
-A collection of programming projects spanning my learning journey — from writing my first lines of Java and C++ through implementing graph algorithms and teaching others.
-
----
+A collection of programming projects spanning my learning journey — from writing my first lines of Java and C++ through implementing classic graph algorithms and teaching others. It ranges across language fundamentals, data-structure and graph-algorithm implementations, small utilities, and material I prepared as a high-school programming instructor.
 
 ## Java
 
@@ -41,8 +39,6 @@ Math-focused programs written out of curiosity:
 - **Galois 2022 #4** — solution to a Galois Contest problem
 - **Change Finder** — coin change problem variant
 
----
-
 ## C++
 
 ### `C++/Basics/`
@@ -52,9 +48,23 @@ Variables · Data Types · Numbers · Strings · Arrays · 2D Arrays · User Inp
 
 Each program isolates one concept, making this a clean reference for C++ fundamentals.
 
----
+## Skills Demonstrated
 
-## Languages
+- Object-oriented programming — Java and C++ fundamentals through to small projects
+- Data structures — binary search trees and disjoint-set union
+- Graph algorithms — Dijkstra's shortest path, Prim's & Kruskal's MST, Tarjan's & Kosaraju's SCC
+- Graph traversal & validation — Eulerian paths and directed/undirected cycle detection
+- Algorithm implementation — classic graph and tree algorithms written from scratch
+- Combinatorics & math — stars and bars, coin change, and contest math problems
+- GUI programming — Java Swing projects with sound playback and user input
+- C++ fundamentals — 26 single-topic programs (pointers, classes, inheritance, and more)
+- Practical utilities — converters, a word counter, image display, and prime-number tools
+- Teaching & mentoring — prepared and taught high-school programming-club material
+- Self-directed learning — a multi-year progression across two languages
 
-- **Java** — primary language across all projects
-- **C++** — used for fundamentals study
+## Tech Stack
+
+- Java
+- C++
+- Java Swing (GUI projects)
+- Eclipse IDE
